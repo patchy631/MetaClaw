@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/new_logo.png" alt="MetaClaw" width="600">
+<img src="assets/new_logo.png" alt="MetaClaw" width="400">
 
 <br/>
 
-# Just talk to your agent, it learns and *EVOLVES*.
+### Just talk to your agent, it learns and *EVOLVES*.
 
 <p>
   <a href="https://github.com/aiming-lab/MetaClaw"><img src="https://img.shields.io/badge/github-MetaClaw-181717?style=flat&labelColor=555&logo=github&logoColor=white" alt="GitHub"></a>
@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/🛠️_Skill_Evolution-orange?style=flat&labelColor=555" alt="Skill Evolution" />
   <img src="https://img.shields.io/badge/🚀_One--Click_Deploy-green?style=flat&labelColor=555" alt="One-Click Deploy" />
 </p>
+
+---
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
